@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4_Functions_CallByReference", "4_Functions_CallByReference\4_Functions_CallByReference.vcxproj", "{D6EA661D-D695-4697-9F60-ED460D8F3DA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6EA661D-D695-4697-9F60-ED460D8F3DA1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D6EA661D-D695-4697-9F60-ED460D8F3DA1}.Debug|Win32.Build.0 = Debug|Win32
+		{D6EA661D-D695-4697-9F60-ED460D8F3DA1}.Release|Win32.ActiveCfg = Release|Win32
+		{D6EA661D-D695-4697-9F60-ED460D8F3DA1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
