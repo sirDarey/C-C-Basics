@@ -1,0 +1,30 @@
+﻿Build started 11/4/2022 8:20:11 PM.
+     1>Project "C:\Users\USER\Desktop\DAREY\DOCUMENTS\UNILAG\300L\1ST\CPE 311_C++\myFolder\9_Structs\9_Structs\9_Structs.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\user\desktop\darey\documents\unilag\300l\1st\cpe 311_c++\myfolder\9_structs\9_structs\main.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\user\desktop\darey\documents\unilag\300l\1st\cpe 311_c++\myfolder\9_structs\9_structs\main.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\user\desktop\darey\documents\unilag\300l\1st\cpe 311_c++\myfolder\9_structs\9_structs\person.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\user\desktop\darey\documents\unilag\300l\1st\cpe 311_c++\myfolder\9_structs\9_structs\main.cpp(11): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\user\desktop\darey\documents\unilag\300l\1st\cpe 311_c++\myfolder\9_structs\9_structs\main.cpp(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\user\desktop\darey\documents\unilag\300l\1st\cpe 311_c++\myfolder\9_structs\9_structs\main.cpp(13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\user\desktop\darey\documents\unilag\300l\1st\cpe 311_c++\myfolder\9_structs\9_structs\main.cpp(29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\user\desktop\darey\documents\unilag\300l\1st\cpe 311_c++\myfolder\9_structs\9_structs\main.cpp(30): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\user\desktop\darey\documents\unilag\300l\1st\cpe 311_c++\myfolder\9_structs\9_structs\main.cpp(31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\user\desktop\darey\documents\unilag\300l\1st\cpe 311_c++\myfolder\9_structs\9_structs\main.cpp(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\USER\Desktop\DAREY\DOCUMENTS\UNILAG\300L\1ST\CPE 311_C++\myFolder\9_Structs\Debug\9_Structs.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\USER\Desktop\DAREY\DOCUMENTS\UNILAG\300L\1ST\CPE 311_C++\myFolder\9_Structs\Debug\9_Structs.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\USER\Desktop\DAREY\DOCUMENTS\UNILAG\300L\1ST\CPE 311_C++\myFolder\9_Structs\Debug\9_Structs.lib" /MACHINE:X86 Debug\main.obj
+         9_Structs.vcxproj -> C:\Users\USER\Desktop\DAREY\DOCUMENTS\UNILAG\300L\1ST\CPE 311_C++\myFolder\9_Structs\Debug\9_Structs.exe
+     1>Done Building Project "C:\Users\USER\Desktop\DAREY\DOCUMENTS\UNILAG\300L\1ST\CPE 311_C++\myFolder\9_Structs\9_Structs\9_Structs.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.54
