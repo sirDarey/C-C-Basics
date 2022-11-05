@@ -1,0 +1,17 @@
+﻿Build started 11/4/2022 9:37:02 PM.
+     1>Project "C:\Users\USER\Desktop\DAREY\DOCUMENTS\UNILAG\300L\1ST\CPE 311_C++\myFolder\10_Structs_and_Functions\10_Structs_and_Functions\10_Structs_and_Functions.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\user\desktop\darey\documents\unilag\300l\1st\cpe 311_c++\myfolder\10_structs_and_functions\10_structs_and_functions\main.cpp(24): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\darey\documents\unilag\300l\1st\cpe 311_c++\myfolder\10_structs_and_functions\10_structs_and_functions\main.cpp(53): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\darey\documents\unilag\300l\1st\cpe 311_c++\myfolder\10_structs_and_functions\10_structs_and_functions\main.cpp(54): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\darey\documents\unilag\300l\1st\cpe 311_c++\myfolder\10_structs_and_functions\10_structs_and_functions\main.cpp(71): warning C4129: 'A' : unrecognized character escape sequence
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\USER\Desktop\DAREY\DOCUMENTS\UNILAG\300L\1ST\CPE 311_C++\myFolder\10_Structs_and_Functions\Debug\10_Structs_and_Functions.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\USER\Desktop\DAREY\DOCUMENTS\UNILAG\300L\1ST\CPE 311_C++\myFolder\10_Structs_and_Functions\Debug\10_Structs_and_Functions.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\USER\Desktop\DAREY\DOCUMENTS\UNILAG\300L\1ST\CPE 311_C++\myFolder\10_Structs_and_Functions\Debug\10_Structs_and_Functions.lib" /MACHINE:X86 Debug\main.obj
+         10_Structs_and_Functions.vcxproj -> C:\Users\USER\Desktop\DAREY\DOCUMENTS\UNILAG\300L\1ST\CPE 311_C++\myFolder\10_Structs_and_Functions\Debug\10_Structs_and_Functions.exe
+     1>Done Building Project "C:\Users\USER\Desktop\DAREY\DOCUMENTS\UNILAG\300L\1ST\CPE 311_C++\myFolder\10_Structs_and_Functions\10_Structs_and_Functions\10_Structs_and_Functions.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.91
